@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WiFiUnlocker</string>
+    <string name="action_settings">...</string>
+    <string name="network_config_file">/data/misc/wifi/wpa_supplicant.conf</string>
+    <string name="network_list_label">Lista zapisanych sieci:</string>
+    <string name="password">Password</string>
+    <string name="wifi_name">WiFi Name</string>
+</resources>
